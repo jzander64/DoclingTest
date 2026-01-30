@@ -1,0 +1,8 @@
+{
+  "RawDocumentsPath": "C:\\Users\\JeremyZander\\Desktop\\SprintWork\\Docling\\unproccessed",
+  "ProcessedDocumentsPath": "C:\\Users\\JeremyZander\\Desktop\\SprintWork\\Docling\\processed",
+  "PerformanceReportsPath": "C:\\Users\\JeremyZander\\Desktop\\SprintWork\\Docling",
+  "PythonExePath": "C:\\Users\\JeremyZander\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "DoclingScriptPath": "C:\\Users\\JeremyZander\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rq\\cli\\cli.py",
+  "DoclingApiUrl": "http://localhost:5001"
+}
